@@ -1,6 +1,7 @@
-"""[summary]
+"""[Thanks to 
+Murtaza's Workshop - Robotics and AI]
 
-    Returns:
+    Description:
         [video link]: [https://youtu.be/v5a7pKSOJd8]
     """
 import cv2
